@@ -23,6 +23,6 @@ Powered by **LLaMA 3.3 (70B)** on **Groq**, and built with **LangChain + Streaml
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/<your-username>/youtube-script-generator.git
+git clone 
 cd youtube-script-generator
 pip install -r requirements.txt
